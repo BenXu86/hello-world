@@ -18,3 +18,5 @@ Latex各种命令、符号  http://www.360doc.com/content/16/0824/20/11290363_58
 SSE\AVX的API   https://software.intel.com/sites/landingpage/IntrinsicsGuide/#techs=SSE3,SSSE3&expand=5186,2086
 
 谷歌学术镜像  http://ac.scmor.com/
+
+梯度下降算法  https://github.com/endymecy/spark-ml-source-analysis/blob/master/%E6%9C%80%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/gradient-descent.md
