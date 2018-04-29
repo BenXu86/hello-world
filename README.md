@@ -24,3 +24,5 @@ SSE\AVX的API   https://software.intel.com/sites/landingpage/IntrinsicsGuide/#te
 机器学习之正则化  https://www.cnblogs.com/jianxinzhou/p/4083921.html
 
 ubuntu安装texlive2014及设置环境变量  https://blog.csdn.net/up_com/article/details/51188382
+
+ 如何卸载Ubuntu软件 https://zh.wikihow.com/%E5%8D%B8%E8%BD%BDUbuntu%E8%BD%AF%E4%BB%B6
