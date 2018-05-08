@@ -28,3 +28,5 @@ ubuntu安装texlive2014及设置环境变量  https://blog.csdn.net/up_com/artic
  如何卸载Ubuntu软件 https://zh.wikihow.com/%E5%8D%B8%E8%BD%BDUbuntu%E8%BD%AF%E4%BB%B6
 
 opencv tutorial https://docs.opencv.org/3.3.1/d9/df8/tutorial_root.html
+
+机器学习--Logistic回归计算过程的推导 https://blog.csdn.net/ligang_csdn/article/details/53838743
