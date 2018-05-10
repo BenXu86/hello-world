@@ -32,3 +32,5 @@ opencv tutorial https://docs.opencv.org/3.3.1/d9/df8/tutorial_root.html
 机器学习--Logistic回归计算过程的推导 https://blog.csdn.net/ligang_csdn/article/details/53838743
 
 EAX、ECX、EDX、EBX寄存器的作用 https://www.cnblogs.com/qq78292959/archive/2012/07/20/2600865.html
+
+DOG算子--------的特征提取（二） https://blog.csdn.net/qq_32211827/article/details/72758090
