@@ -36,3 +36,5 @@ EAX、ECX、EDX、EBX寄存器的作用 https://www.cnblogs.com/qq78292959/archi
 DOG算子--------的特征提取（二） https://blog.csdn.net/qq_32211827/article/details/72758090
 
 ML神器：sklearn的快速使用  https://www.cnblogs.com/lianyingteng/p/7811126.html
+
+高斯混合模型（GMM）介绍以及学习笔记  https://blog.csdn.net/jojozhangju/article/details/19182013
