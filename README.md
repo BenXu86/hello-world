@@ -38,3 +38,7 @@ DOG算子--------的特征提取（二） https://blog.csdn.net/qq_32211827/arti
 ML神器：sklearn的快速使用  https://www.cnblogs.com/lianyingteng/p/7811126.html
 
 高斯混合模型（GMM）介绍以及学习笔记  https://blog.csdn.net/jojozhangju/article/details/19182013
+
+在linux环境下编译C++ 程序 https://www.cnblogs.com/ucas/p/5778664.html
+
+vim插件管理器：Vundle的介绍及安装（很全） https://blog.csdn.net/zhangpower1993/article/details/52184581
