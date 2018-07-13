@@ -42,3 +42,5 @@ ML神器：sklearn的快速使用  https://www.cnblogs.com/lianyingteng/p/781112
 在linux环境下编译C++ 程序 https://www.cnblogs.com/ucas/p/5778664.html
 
 vim插件管理器：Vundle的介绍及安装（很全） https://blog.csdn.net/zhangpower1993/article/details/52184581
+
+学习OPENGL https://learnopengl-cn.github.io/intro/
