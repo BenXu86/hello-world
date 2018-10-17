@@ -44,3 +44,5 @@ ML神器：sklearn的快速使用  https://www.cnblogs.com/lianyingteng/p/781112
 vim插件管理器：Vundle的介绍及安装（很全） https://blog.csdn.net/zhangpower1993/article/details/52184581
 
 学习OPENGL https://learnopengl-cn.github.io/intro/
+
+Python与C/C++相互调用 https://blog.csdn.net/fuwenyan/article/details/79804364
