@@ -46,3 +46,5 @@ vim插件管理器：Vundle的介绍及安装（很全） https://blog.csdn.net/
 学习OPENGL https://learnopengl-cn.github.io/intro/
 
 Python与C/C++相互调用 https://blog.csdn.net/fuwenyan/article/details/79804364
+
+计算机会议排名等级  https://blog.csdn.net/jasonzzj/article/details/55210533
